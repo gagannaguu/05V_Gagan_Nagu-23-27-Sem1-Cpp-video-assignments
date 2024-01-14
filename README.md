@@ -1,4 +1,4 @@
-# 05V_Gagan_Nagu-23-27-Sem1-Cpp-video-assignments
+# Cpp_video_assignments
 
 # Video Link = https://drive.google.com/file/d/1nrSbNeLobanisCNMvRilIjjFkbxJVON0/view?usp=sharing
 
